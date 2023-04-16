@@ -1,6 +1,6 @@
-                                                    #Hi 👋, I'm Sarmad Randhawa
+                                                    # Hi 👋, I'm Sarmad Randhawa
                           
-                                                   ##DevOps Intern | CS Undergrad
+                                                   ## DevOps Intern | CS Undergrad
 
 
 - 🔭 I’m currently working as a DevOps Intern @Bytewise Limited, Islamabad.
