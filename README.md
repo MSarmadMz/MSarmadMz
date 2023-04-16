@@ -9,4 +9,3 @@
                        
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Python is a Coding Lang and has No VENOM.
-![image](https://user-images.githubusercontent.com/113386904/232341923-123ec7ed-223d-485d-b043-db40e2644e6e.png)
