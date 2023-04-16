@@ -1,6 +1,6 @@
-                                                    Hi 👋, I'm Sarmad Randhawa
+                                                    #Hi 👋, I'm Sarmad Randhawa
                           
-                            DevOps Intern | CS Undergrad
+                                                   ##DevOps Intern | CS Undergrad
 
 
 - 🔭 I’m currently working as a DevOps Intern @Bytewise Limited, Islamabad.
@@ -9,5 +9,5 @@
                        HashNode : https://hashnode.com/@msarmad
                        Medium : https://medium.com/@sarmadmz282
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Habibi Come to My Workspace.
+- ⚡ Fun fact: Python is 
 
