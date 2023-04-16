@@ -1,6 +1,6 @@
- Hi there 👋
-
-Sarmad Randhawa, CS Undergrad from NUML Islamabad.
+                                                    Hi 👋, I'm Sarmad Randhawa
+                          
+                            DevOps Intern | CS Undergrad
 
 
 - 🔭 I’m currently working as a DevOps Intern @Bytewise Limited, Islamabad.
