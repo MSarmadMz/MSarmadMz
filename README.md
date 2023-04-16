@@ -9,5 +9,5 @@
                        HashNode : https://hashnode.com/@msarmad
                        Medium : https://medium.com/@sarmadmz282
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Python is 
+- ⚡ Fun fact: Python is a Coding Lang and has No VENOM.
 
